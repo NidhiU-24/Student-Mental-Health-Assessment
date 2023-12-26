@@ -43,6 +43,10 @@ Our main objective is to understand mental health of the students. We wish to im
 6. How relationship status affects stress level depending on social support?
 7. How is sleep quality and course taken related to stress level ?
 
+
+## Methodology
+The analysis will be conducted using statistical methods and data visualization techniques.
+
 ## Conclusion
 - The well-being of students depends a lot on their mental health, which affects how they do in school and how they feel.
 - When a student's mental health is in a good place, they are more likely to do well in their studies, pay attention in class, and participate in activities. They tend to feel happier, more confident, and better able to handle the challenges that come their way.
